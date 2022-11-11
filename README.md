@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/tania diaz alfaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tania diaz alfaro" height="30" width="40" /></a>
 <a href="https://www.behance.net/tania diaz alfaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tania diaz alfaro" height="30" width="40" /></a>
 <a href="https://medium.com/@4561_51281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@4561_51281" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@tluciad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tluciad" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tluciad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tluciad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
